@@ -11,29 +11,22 @@ Email : skyhawk96@naver.com
 <h2>TechSkills : </h2>
 
 ### Back-End
- <ul>
-  <li><span class="dot"></span>Java</li>
-  <li><span class="dot"></span>Spring</li>
-  <li><span class="dot"></span>MyBatis</li>
-</ul>
+- `Java`
+- `Spring` `Spring boot`
+- `MyBatis`
 
 ### Front-End
-<ul>
-  <li><span class="dot"></span>HTML CSS</li>
-  <li><span class="dot"></span>JavaScript</li>
-</ul>
+- `HTML CSS`
+- `JavaScript`
+
 
 ### DBMS
- <ul>
-  <li><span class="dot"></span>Oracle</li>
-</ul>
+-  `Oracle`
 
 ### Tools & Collaborations
- <ul>
-  <li><span class="dot"></span>eclipse</li>
-  <li><span class="dot"></span>Git, GitHub</li>
-  <li><span class="dot"></span>Notion</li>
-</ul>
+- `eclipse`
+- `Git, GitHub`
+- `Notion`
 
 
 <!--
