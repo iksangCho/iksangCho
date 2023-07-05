@@ -8,7 +8,7 @@ Name : 조익상(ChoIksang)
 
 Email : skyhawk96@naver.com
 
-<h1>TechSkills : </h1>
+<h2>TechSkills : </h2>
 
 ### Back-End
 	- Java
