@@ -1,4 +1,4 @@
-### Who am I
+<h1>Who am I</h1>
 안녕하세요, 초보 개발자 조익상입니다!
 
 ### Profile
@@ -6,8 +6,8 @@ Name : 조익상(ChoIksang)
 
 Email : skyhawk96@naver.com
 
-### TechSkills :
-***
+<h1>TechSkills : </h1>
+
 ### Back-End
 	- Java
 	- Spring Spring boot
